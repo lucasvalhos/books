@@ -4,12 +4,12 @@
 
 ### javascript
 
-   - [Aplicações web real-time com Node.js](books/AplicacoesWebRealTimeComNodeJs) [:arrow_upper_right:] (http://www.casadocodigo.com.br/products/livro-nodejs)
+   - [Aplicações web real-time com Node.js](AplicacoesWebRealTimeComNodeJs/) [:arrow_upper_right:] (http://www.casadocodigo.com.br/products/livro-nodejs)
    - Dominando JavaScript Com Jquery [:arrow_upper_right:](http://www.casadocodigo.com.br/products/livro-javascript-jquery)
    - Padrões JavaScript / JavaScript patterns [:arrow_upper_right:](http://novatec.com.br/livros/padroesjavascript/)
 
 ### python
-   - [Python e Django - Desenvolvimento ágil de aplicações web](books/PythoneDjangoDesenvolvimentoAgilDeAplicacoesWeb) [:arrow_upper_right:](http://novatec.com.br/livros/pythonedjango/)
+   - [Python e Django - Desenvolvimento ágil de aplicações web](PythoneDjangoDesenvolvimentoAgilDeAplicacoesWeb/) [:arrow_upper_right:](http://novatec.com.br/livros/pythonedjango/)
 
 ### ruby 
    - Rails 3 - Básico / Beggining Rails 3 [:arrow_upper_right:](http://novatec.com.br/livros/rails3basico/)
