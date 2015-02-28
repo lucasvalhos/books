@@ -13,4 +13,5 @@
 
 ### ruby 
    - Rails 3 - Básico / Beggining Rails 3 [:arrow_upper_right:](http://novatec.com.br/livros/rails3basico/)
+   - Ruby - Aprenda a programar na linguagem mais divertida [:arrow_upper_right](http://www.casadocodigo.com.br/products/livro-ruby)
    - The Rails 4 Way [:arrow_upper_right:](http://leanpub.com/tr4w)
