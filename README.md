@@ -6,6 +6,7 @@
 
    - [Aplicações web real-time com Node.js](AplicacoesWebRealTimeComNodeJs/) [:arrow_upper_right:] (http://www.casadocodigo.com.br/products/livro-nodejs)
    - Dominando JavaScript Com Jquery [:arrow_upper_right:](http://www.casadocodigo.com.br/products/livro-javascript-jquery)
+   - Eloquent JavaScript [:arrow_upper_right:](http://eloquentjavascript.com.br/)
    - Padrões JavaScript / JavaScript patterns [:arrow_upper_right:](http://novatec.com.br/livros/padroesjavascript/)
 
 ### python
